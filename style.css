@@ -1,0 +1,58 @@
+/* przenieść na dół */
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+/* reset*/ 
+html, body, div, h1, p, a, img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+body {
+	line-height: 1;
+}
+
+.wrapper {
+ height: 35vw;
+ width: 65vw;
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ display: flex;
+	overflow: hidden;
+	border-radius: 2%;
+}
+
+.container {
+ display: flex;
+ flex-direction: column;
+ align-items: flex-start;
+ justify-content: space-between;
+	padding: 5%;
+}
+
+.sedan-container {
+ background-color: hsl(31, 77%, 52%);
+}
+
+.suv-container {
+ background-color: hsl(184, 100%, 22%);
+}
+
+.luxury-container {
+ background-color: hsl(179, 100%, 13%);
+}
+
+.header {
+	color: hsl(0, 0%, 95%);
+	text-transform: uppercase;
+}
+
+.text{
+	color: hsla(0, 0%, 100%, 0.75);
+}
