@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://natalia-kaminska.github.io/3-column-preview-card/)
+- Solution URL: [solution](https://natalia-kaminska.github.io/3-column-preview-card/)
 
 ## My process
 
