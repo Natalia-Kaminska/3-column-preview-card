@@ -36,8 +36,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
-I've done this project to revise CSS Flexbox and @media queries.
+I've done this project to revise CSS Flexbox, RWD and @media queries.
